@@ -11,22 +11,34 @@ Build a machine learning model to predict satisfaction ratings.
 
 # Tools & Technologies 
 Python
+
 Pandas
+
 Numpy
+
 Matplotlib
+
 Seaborn
+
 Scikit-Learn
+
 Jupyter Notebook
+
 Kaggle
 
 # key Analysis
 Includes :
 
 1.Exploratory Data Analysis(EDA)
+
 2.Correlation Heatmap
+
 3.Ticket Distribution Analysis
+
 4.Feature Engineering
+
 5.Random Forest Classification Model
+
 6.Model Evaluation using Confusion matrix and classification Report
 
 # Manchine Learning Model
